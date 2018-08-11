@@ -1,0 +1,121 @@
+Idx,Joke ID,isAggressive,isIncongruence,Generation
+1,Joke 1,0,0,Millenial
+4,Joke 4,0,0,Millenial
+5,Joke 5,0,0,Millenial
+52,Joke 52,0,0,Millenial
+22,Joke 82,0,0,Millenial
+39,Joke 39,0,0,Millenial
+13,Joke 73,0,0,Millenial
+28,Joke 88,0,0,Millenial
+35,Joke 35,0,0,Millenial
+46,Joke 46,0,0,Millenial
+55,Joke 55,0,1,Millenial
+6,Joke 66,0,1,Millenial
+48,Joke 108,0,1,Millenial
+15,Joke 15,0,1,Millenial
+9,Joke 69,0,1,Millenial
+38,Joke 98,0,1,Millenial
+47,Joke 47,0,1,Millenial
+22,Joke 22,0,1,Millenial
+30,Joke 30,0,1,Millenial
+40,Joke 40,1,0,Millenial
+12,Joke 72,1,0,Millenial
+2,Joke 62,1,0,Millenial
+24,Joke 24,1,0,Millenial
+54,Joke 54,1,0,Millenial
+38,Joke 38,1,0,Millenial
+16,Joke 76,1,0,Millenial
+40,Joke 100,1,0,Millenial
+11,Joke 11,1,0,Millenial
+42,Joke 42,1,0,Millenial
+59,Joke 59,1,0,Millenial
+51,Joke 51,1,1,Millenial
+44,Joke 104,1,1,Millenial
+53,Joke 113,1,1,Millenial
+25,Joke 85,1,1,Millenial
+17,Joke 17,1,1,Millenial
+34,Joke 94,1,1,Millenial
+55,Joke 115,1,1,Millenial
+31,Joke 31,1,1,Millenial
+30,Joke 90,1,1,Millenial
+23,Joke 23,1,1,Millenial
+2,Joke 2,0,0,Gen X
+6,Joke 6,0,0,Gen X
+9,Joke 9,0,0,Gen X
+10,Joke 10,0,0,Gen X
+1,Joke 61,0,0,Gen X
+35,Joke 95,0,0,Gen X
+52,Joke 112,0,0,Gen X
+43,Joke 43,0,0,Gen X
+10,Joke 70,0,0,Gen X
+16,Joke 16,0,0,Gen X
+29,Joke 29,0,1,Gen X
+5,Joke 65,0,1,Gen X
+29,Joke 89,0,1,Gen X
+3,Joke 63,0,1,Gen X
+28,Joke 28,0,1,Gen X
+59,Joke 119,0,1,Gen X
+53,Joke 53,0,1,Gen X
+19,Joke 79,0,1,Gen X
+19,Joke 19,0,1,Gen X
+37,Joke 37,0,1,Gen X
+23,Joke 83,1,0,Gen X
+36,Joke 36,1,0,Gen X
+34,Joke 34,1,0,Gen X
+49,Joke 49,1,0,Gen X
+58,Joke 58,1,0,Gen X
+26,Joke 86,1,0,Gen X
+14,Joke 14,1,0,Gen X
+7,Joke 67,1,0,Gen X
+33,Joke 93,1,0,Gen X
+37,Joke 97,1,0,Gen X
+25,Joke 25,1,1,Gen X
+14,Joke 74,1,1,Gen X
+41,Joke 101,1,1,Gen X
+12,Joke 12,1,1,Gen X
+46,Joke 106,1,1,Gen X
+31,Joke 91,1,1,Gen X
+47,Joke 107,1,1,Gen X
+41,Joke 41,1,1,Gen X
+57,Joke 117,1,1,Gen X
+21,Joke 81,1,1,Gen X
+3,Joke 3,0,0,Gen Z
+7,Joke 7,0,0,Gen Z
+8,Joke 8,0,0,Gen Z
+56,Joke 56,0,0,Gen Z
+43,Joke 103,0,0,Gen Z
+45,Joke 45,0,0,Gen Z
+17,Joke 77,0,0,Gen Z
+42,Joke 102,0,0,Gen Z
+18,Joke 78,0,0,Gen Z
+24,Joke 84,0,0,Gen Z
+54,Joke 114,0,1,Gen Z
+27,Joke 27,0,1,Gen Z
+50,Joke 110,0,1,Gen Z
+13,Joke 13,0,1,Gen Z
+32,Joke 92,0,1,Gen Z
+33,Joke 33,0,1,Gen Z
+32,Joke 32,0,1,Gen Z
+50,Joke 50,0,1,Gen Z
+60,Joke 60,0,1,Gen Z
+20,Joke 20,0,1,Gen Z
+36,Joke 96,1,0,Gen Z
+27,Joke 87,1,0,Gen Z
+56,Joke 116,1,0,Gen Z
+57,Joke 57,1,0,Gen Z
+21,Joke 21,1,0,Gen Z
+4,Joke 64,1,0,Gen Z
+8,Joke 68,1,0,Gen Z
+11,Joke 71,1,0,Gen Z
+39,Joke 99,1,0,Gen Z
+20,Joke 80,1,0,Gen Z
+48,Joke 48,1,1,Gen Z
+45,Joke 105,1,1,Gen Z
+58,Joke 118,1,1,Gen Z
+18,Joke 18,1,1,Gen Z
+49,Joke 109,1,1,Gen Z
+51,Joke 111,1,1,Gen Z
+44,Joke 44,1,1,Gen Z
+15,Joke 75,1,1,Gen Z
+60,Joke 120,1,1,Gen Z
+26,Joke 26,1,1,Gen Z
