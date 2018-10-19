@@ -123,7 +123,6 @@ def clean_data(filename):
 			 data.columns[14]: "Preferred Film Genre: Drama", data.columns[15]: "Preferred Film Genre: Historical", data.columns[16]: "Preferred Film Genre: Animation",
 			 data.columns[17]: "Preferred Film Genre: Documentary", data.columns[18]: "Preferred Film Genre: Adventure", data.columns[19]: "Preferred Film Genre: Fiction" }, inplace=True)
     rename_dict = dict(zip(data.columns[25:-1], ["Joke " + str(index) for index in range(1, len(data.columns)-25)]))
-    print rename_dict
     data.rename(columns=rename_dict, inplace=True)
     data.rename(columns={ data.columns[5]: "Biological Gender", data.columns[7]: "Income Range", data.columns[10]: "Age Group", data.columns[21]: "Average time spent on Internet (in hours)",
 			 data.columns[22]: "Number of children", data.columns[23]: "Number of vehicles owned" }, inplace=True)
